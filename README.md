@@ -2,7 +2,9 @@
 **Author:** Yogev Vahaba  
 **Tech Stack:** Kotlin, Android SDK, RecyclerView, OkHttp, Coil, Taboola Android SDK (v4.0.16)
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a09d919-95d9-46e5-88d6-dc618f17afef" width="250" alt="App demo"/>
+</p>
 
 ## 📱 Project Overview
 
